@@ -89,11 +89,11 @@
   <div class="row">
     <div class="col-sm-4">
       <p>To Accomplish a Goal Together</p>
-      <img src="goal.JPG" class="img-responsive margin" style="width:100%" alt="Image">
+      <img src="goal.jpg" class="img-responsive margin" style="width:100%" alt="Image">
     </div>
     <div class="col-sm-4"> 
       <p>To Help Grow Each Other</p>
-      <img src="grow.JPG" class="img-responsive margin" style="width:100%" alt="Image">
+      <img src="grow.jpg" class="img-responsive margin" style="width:100%" alt="Image">
     </div>
     <div class="col-sm-4"> 
       <p>To Understand Each other. </p>
